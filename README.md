@@ -2,4 +2,4 @@
 
 This repository demonstrates the integration between Jenkins and GitHub using webhooks.
 
-updated: webhook test
+updated: webhook test 2.0
